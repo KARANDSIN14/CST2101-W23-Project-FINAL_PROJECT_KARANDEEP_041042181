@@ -47,9 +47,11 @@ EXPLORATORY DATA ANALYSIS:
 However, these correlations are not so strong enough hence, No multi-collinearity is exhibited here.
 
 STANDARDISATION AND DATA SPLITTING: 
+
 First data is standardised to rescale all the features in a particular range using the StandardScaler() and further, data is splitted with keeping test data size as 0.15 and rest as training data and also, the stratified sampling technique is employed to make sure that all the samples are included from the each strata(subgroup).
 
 MODELLING:
+
  Two models are employed: A. LOGISTIC REGRESSION 
                           B. RANDOM FOREST
 RESULTS AND ANALYSIS:
