@@ -6,13 +6,13 @@ Analyzing diabetic data and addressing some significant business issues/question
 AIM:
 The goal of the project is focused on Exploratory Data Analysis and Model Training using Python.
 
-Problem Statement:
+PROBLEM STATEMENT:
 
 One of the most prevalent diseases in the world, diabetes has an increasing prevalence throughout time. Although the primary cause of diabetes is still unknown, scientists think that both hereditary and environmental lifestyle factors play a significant influence in the disease.
 
 Research on the Pima tribe, an American tribe, was conducted a few years ago (also known as the Pima Indians). It was discovered that the women of this tribe get diabetes quite early. These instances were chosen from a bigger database under a number of restrictions. In specifically, all patients were Pima Native women who were at least 21 years old. Here, we are performing exploratory data analysis and developing a classification model to analyse several facets of diabetes in the Pima Indian tribe.
 
-Dataset Information:
+DATASET INFORMATION:
 
 Below is the attribute information:
 
