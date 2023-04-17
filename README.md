@@ -40,9 +40,9 @@ EXPLORATORY DATA ANALYSIS:
 6. From correlation matrix it is observed that: 
 'Age' and the 'Pregnancies' are the two features having positive correlation.
 
-'skinThickness' and 'Insulin' also presented positive correlation.
+'SkinThickness' and 'Insulin' also presented positive correlation.
 
-'skinThickness' and'BMI' also has postitve correlation.
+'SkinThickness' and'BMI' also has positive correlation.
 
 However, these correlations are not so strong enough hence, No multi-collinearity is exhibited here.
 
